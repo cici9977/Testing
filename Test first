@@ -1,8 +1,0 @@
-class
-{
-String str="good morning!"
-}
-public class Test1
-{
-System.out.println(str);
-}
